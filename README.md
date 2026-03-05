@@ -22,9 +22,6 @@ Full Stack Software Engineer with 2+ years of experience building responsive web
 ### 🔝 Top Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Noureldin-Ahmed-FullStack&layout=compact&theme=radical)
 
-### 📊 Other GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Noureldin-Ahmed-FullStack&show_icons=true&theme=radical)
-
 ### 📈 Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Noureldin-Ahmed-FullStack&theme=radical)
 
