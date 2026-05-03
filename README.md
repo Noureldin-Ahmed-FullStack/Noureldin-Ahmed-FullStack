@@ -44,8 +44,6 @@ Full Stack Software Engineer with 2+ years of experience building responsive and
 ![Firebase](https://img.shields.io/badge/firebase-%23ED8B00.svg?style=for-the-badge&logo=firebase)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
----
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Noureldin-Ahmed-FullStack&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)
 
@@ -55,8 +53,6 @@ Full Stack Software Engineer with 2+ years of experience building responsive and
 
 ## 🔝 Top Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Noureldin-Ahmed-FullStack&layout=compact&theme=aura_dark&hide_border=false)
-
----
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Noureldin-Ahmed-FullStack&theme=radical&no-frame=false&no-bg=false&margin-w=4)
