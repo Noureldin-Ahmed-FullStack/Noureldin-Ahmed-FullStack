@@ -43,7 +43,7 @@ Full Stack Software Engineer with 2+ years of experience building responsive and
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Firebase](https://img.shields.io/badge/firebase-%23ED8B00.svg?style=for-the-badge&logo=firebase)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
+<!-- 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Noureldin-Ahmed-FullStack&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)
 
@@ -60,7 +60,7 @@ Full Stack Software Engineer with 2+ years of experience building responsive and
 ---
 
 ## 📈 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=Noureldin-Ahmed-FullStack&theme=radical)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Noureldin-Ahmed-FullStack&theme=radical) -->
 
 ---
 
